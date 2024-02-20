@@ -1,2 +1,1 @@
-# Pac-Man-Project-Berkeley
-The Pac-Man project from the University of California, Berkeley, with some questions implemented.
+Questions implemented from the Berkeley website for the Pac-Man project where we need to work on different problems using Pytho. All the requirements for the different questions we implemented can be found on their website, as well as the explanations for everything I've made in the specific folder documentation, Search or ReinforcementLearning.
